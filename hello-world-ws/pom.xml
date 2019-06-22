@@ -9,9 +9,8 @@
 		<relativePath/>
 	</parent>
 	<groupId>com.codeaches</groupId>
-	<artifactId>spring-boot-docker-basics</artifactId>
+	<artifactId>hello-world-ws</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>docker.basics</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>

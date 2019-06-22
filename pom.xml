@@ -12,7 +12,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>spring-boot-docker-basics</module>
+		<module>hello-world-ws</module>
 	</modules>
 
 	<url>https://codeaches.com/</url>
